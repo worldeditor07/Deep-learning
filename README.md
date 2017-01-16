@@ -1,5 +1,1 @@
-# Deep-learning
-
-Udacity Course on Deep Learning.
-
-CS231n from Stanford on Convolutional Neural Network.
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
